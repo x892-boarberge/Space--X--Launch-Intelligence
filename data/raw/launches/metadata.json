@@ -1,0 +1,11 @@
+{
+    "source": "Launch Library 2",
+    "provider": "The Space Devs",
+    "api_version": "2.3.0",
+    "endpoint": "https://ll.thespacedevs.com/2.3.0/launches/",
+    "query": "Falcon 9",
+    "mode": "detailed",
+    "collection_timestamp": "2026-08-19T08:03:45.329706+00:00",
+    "records_collected": 819,
+    "api_reported_total": 819
+}
